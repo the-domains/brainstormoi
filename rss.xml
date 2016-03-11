@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[BrainstormOI]]></title>
         <description><![CDATA[BrainstormOI]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/brainstormoi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 04:21:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 11 Mar 2016 06:19:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/brainstormoi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <link>undefineda578f9af-97fb-4fed-a71c-174720ee5129/index.html</link>
+            <title><![CDATA[PASSION = MONETIZATION = FEASIBILITY=OBJECTIVE]]></title>
+            <description><![CDATA[<article><h1>PASSION = MONETIZATION = FEASIBILITY=OBJECTIVE</h1><p>Commodity prices - Similar to Yelp but focussed more on commodity. Stores that offer the commodity are the ones rated by how much they </p></article>]]></description>
+            <link>https://thegrid.ai/brainstormoi/a578f9af-97fb-4fed-a71c-174720ee5129/index.html</link>
             <guid isPermaLink="false">a578f9af-97fb-4fed-a71c-174720ee5129</guid>
-            <pubDate>Fri, 11 Mar 2016 04:21:08 GMT</pubDate>
+            <pubDate>Fri, 11 Mar 2016 06:19:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
